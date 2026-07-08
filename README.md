@@ -7,7 +7,12 @@
 
 - 📫 How to reach me **phoebebangco@gmail.com**
 
-- ⚡ Fun fact **poopoo**
+<h3 align="left">Projects:</h3>
+<ul>
+  <li><a href="https://blueueue.itch.io/the-summer-we-met-again")>Comfy Jam Summer 2026</a></li>
+</ul>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
