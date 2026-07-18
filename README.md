@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Phoebe</h1>
 <h3 align="center">A 3rd year BS Computer Science - BS Digital Game Design and Development Student in Ateneo de Manila University</h3>
 
-- 🔭 I’m currently working on [Mosaic](https://github.com/bankaccount-dot-java/mosaic)
+- 🔭 I’m currently working on [Cookies](https://github.com/bankaccount-dot-java/cookies) 
 
 - 🌱 I’m currently learning **Pygame, Godot, Game Design**
 
